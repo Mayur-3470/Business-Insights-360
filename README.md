@@ -33,6 +33,8 @@ It is a project management tool. It has four interdependent components- 1)Purpos
 
 The final product is an interactive dashboard that effectively displays the sales trend of AtliQ hardware, allowing users to easily understand the data and make informed, data-driven decisions. I'm confident that this dashboard has the potential to increase the company's sales and revenue in the next quarter.
 
+https://app.powerbi.com/view?r=eyJrIjoiYmVkYzFiMDAtODY1NC00NzY4LTg5NjEtODc4ZmU1NDc3NDcxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 ![image](https://github.com/user-attachments/assets/cabcc054-8f5a-4f9b-9867-68ae1e5930fd)
 
 ![image](https://github.com/user-attachments/assets/37951076-e229-4bfb-be17-174d877bbd35)
